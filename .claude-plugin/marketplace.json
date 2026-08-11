@@ -1,0 +1,24 @@
+{
+  "name": "coaching-models",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Static agent skill for coaching-session preparation, coaching-cycle plans, and audits grounded in observed behavior.",
+  "plugins": [
+    {
+      "name": "coaching-models",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Coaching Session Prep, Coaching Cycle Plan, Coaching Plan Audit. Static: no network calls, no remote fetch, no auto-update. Version-pinned.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "coaching",
+        "grow-model",
+        "people-management"
+      ]
+    }
+  ]
+}

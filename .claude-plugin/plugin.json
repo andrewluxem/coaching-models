@@ -1,0 +1,18 @@
+{
+  "name": "coaching-models",
+  "version": "1.0.0",
+  "description": "Static agent skill for coaching-session preparation, coaching-cycle plans, and audits grounded in observed behavior. Static: no network calls, no remote fetch, no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/coaching-models",
+  "repository": "https://github.com/andrewluxem/coaching-models",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "coaching",
+    "grow-model",
+    "people-management"
+  ]
+}
